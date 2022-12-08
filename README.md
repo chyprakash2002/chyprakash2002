@@ -15,7 +15,7 @@ I'm a Student and a developer!!
  <a href="https://www.linkedin.com/in/prakash-chaudhary" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://github.com/chyprakash2002" target="_blank">
+  <a href="https://github.com/prakashchaudhary12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  
@@ -31,16 +31,16 @@ I'm a Student and a developer!!
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chyprakash2002&show_icons=true&locale=en&layout=compact" alt="chyprakash2002" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashchaudhary12&show_icons=true&locale=en&layout=compact" alt="prakashchaudhary12" /></p>
 
 ---
 
-<p display="flex" justify-content="space-between" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chyprakash2002&show_icons=true&locale=en" alt="chyprakash2002" />
+<p display="flex" justify-content="space-between" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prakashchaudhary12&show_icons=true&locale=en" alt="prakashchaudhary12" />
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chyprakash2002&" alt="chyprakash2002" /></p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&" alt="prakashchaudhary12" /></p>
 
 ---
 <!---
-chyprakash2002/chyprakash2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prakashchaudhary12/prakashchaudhary12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
