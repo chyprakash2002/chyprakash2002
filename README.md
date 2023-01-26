@@ -1,15 +1,17 @@
 # Hi there, I'm **Prakash Chaudhary**👋
-I'm a Student and a developer!!
+## I'm a Student and a developer!!
 
 ---
 
 - 🌱 I’m Student of Bachelor's of engineering at Sinhgad college of engineering, Pune.
-- 🥅 2022 Goals: Learn more about **Web Developement** and **Competitive Programmming**
+- 🥅 2023 Goals: Learn more about **DSA** and **Competitive Programmming**, being **Focused and Consistent**.
 - 🔭 Check out my <a target="_blank" href="https://www.linkedin.com/in/prakash-chaudhary">LinkedIn Profile</a>
 - ⚡ I love to myself.
 - 🌱 I'm currently learning **Frontend Web Developement**.
 
-### Connect with me:
+---
+
+### Connect with me<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>:
 
 <div align="center">
  <a href="https://www.linkedin.com/in/prakash-chaudhary" target="_blank">
@@ -28,7 +30,12 @@ I'm a Student and a developer!!
 <img alt="VS-code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img alt="MySql"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
+ 
+ 
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashchaudhary12&show_icons=true&locale=en&layout=compact" alt="prakashchaudhary12" /></p>
@@ -40,6 +47,34 @@ I'm a Student and a developer!!
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=prakashchaudhary12&" alt="prakashchaudhary12" /></p>
 
 ---
+ 
+ ### Recent Projects 👨‍💻
+ 
+ 
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=Weather-App&show_icons=true&theme=solarized-light">
+</div>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakashchaudhary12&repo=Coffee-Shop-Website&show_icons=true&theme=solarized-light">
+</div>
+
+
+ ---
+ 
+ <div align="center">
+<img src="https://img.shields.io/github/followers/prakashchaudhary12.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/prakashchaudhary12"></img>
+</div>
+ 
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+
+
+
+
+ 
 <!---
 prakashchaudhary12/prakashchaudhary12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
