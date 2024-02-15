@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m Student of Bachelor's of engineering at Sinhgad college of engineering, Pune.
-- 🥅 2023 Goals: Learn more about **DSA** and **Competitive Programmming**, being **Focused and Consistent**.
+- 🥅 2024 Goals: Learn more about **DSA** and **Competitive Programmming**, being **Focused and Consistent**.
 - 🔭 Check out my <a target="_blank" href="https://www.linkedin.com/in/prakash-chaudhary">LinkedIn Profile</a>
 - ⚡ I love to myself.
 - 🌱 I'm currently learning **Frontend Web Developement**.
